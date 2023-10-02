@@ -50,7 +50,7 @@
 					</td>
 				</tr>
 			</table>
-		<?php echo validation_errors(); ?>
+		</form>
 	
 	</center>
 </body>
