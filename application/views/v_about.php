@@ -8,7 +8,7 @@
 	<br>
 	<h4>Alamat</h4>
 	<ul type="none">
-		<li>Jalan Way Seputih No.27</li>
+		<li>TDR No.27</li>
 	</ul>
 
 	<h4>Tempat Lahir</h4>

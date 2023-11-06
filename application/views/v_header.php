@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Web Prog II | Merancang template sederhana dengan codeigniter</title>
-	<link rel="stylesheet" type="text/css" href="http://localhost/pustaka-booking2/assets/css/stylebuku.css">
+	<link rel="stylesheet" type="text/css" href="http://localhost/pustaka-booking2/assets/csf7 9s/stylebuku.css">
 </head>
 <body>
 	<div id="wrapper">
